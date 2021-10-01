@@ -5,6 +5,11 @@
 # begin properties
 properties() { '
 kernel.string=AtomX Kernel By The AtomX Developers
+kernel.for=KernelForDriver
+kernel.compiler=AtomX
+kernel.made=Kunmun
+kernel.version=4.19.xxx
+message.word=bruh
 do.devicecheck=1
 do.modules=0
 do.systemless=1

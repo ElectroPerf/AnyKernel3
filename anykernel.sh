@@ -19,7 +19,11 @@ device.name1=X01BD
 device.name2=ASUS_X01BD
 device.name3=X01BDA
 device.name4=ASUS_X01BDA
-device.name5=
+device.name5=X00TD
+device.name6=ASUS_X00TD
+device.name7=X00T
+device.name8=ASUS_X00TDA
+device.name9=X00TDA
 supported.versions=11.0-12.0
 supported.patchlevels=
 '; } # end properties
